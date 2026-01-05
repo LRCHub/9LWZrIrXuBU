@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "かもめが翔んだ日",
+  "base_artist": "渡辺真知子",
+  "createdAt": "2026-01-05T07:58:23.467900Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かもめが翔んだ日",
+      "artist": "渡辺真知子",
+      "has_synced": true,
+      "path": "select/01_かもめが翔んだ日_渡辺真知子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かもめが翔んだ日",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/02_かもめが翔んだ日_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "かもめが翔んだ日",
+      "artist": "Machiko Watanabe",
+      "has_synced": true,
+      "path": "select/03_かもめが翔んだ日_Machiko_Watanabe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "かもめが翔んだ日",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/04_かもめが翔んだ日_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "かもめが翔んだ日",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/05_かもめが翔んだ日_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かもめが翔んだ日",
+      "artist": "渡辺 真知子",
+      "has_synced": false,
+      "path": "select/pl_01_かもめが翔んだ日_渡辺_真知子.txt"
+    }
+  ]
+}
